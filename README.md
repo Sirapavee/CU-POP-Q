@@ -7,3 +7,7 @@
 - OpenCV
 
 - imutils
+
+- numpy
+
+- scipy
